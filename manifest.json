@@ -1,0 +1,7 @@
+{
+  "name": "Pong Game",
+  "version": "1.0",
+  "description": "Pong Chrome Extension!",
+  "author": "Ozge Onec",
+  "manifest_version": 2
+}
